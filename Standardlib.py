@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 20 20:00:24 2022
-
-@author: felixlawler
-ANU ID: u7495854
-"""
-
-
-
-
-##------------------------------------
-
 
 'Task 1'
 
