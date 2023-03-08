@@ -1,7 +1,7 @@
 # stdlib-analysis
 stdlib-analysis is a program to analyse the packages within pythons standard library. stdlib-analysis has several functions 
 
-1. Obtains all of the python packages in the standard library dependant on the python version installed. 'task1()' returns the python version, then the OS, followed by the number of importable packages and finally the first and last 5 importable standard library packages. Included within this function is further functions one of which obtains the entire list
+1. Function 1 obtains all of the python packages in the standard library dependant on the python version installed. 'task1()' returns the python version, then the OS, followed by the number of importable packages and finally the first and last 5 importable standard library packages. Included within this function is further functions one of which obtains the entire list
 
 2.  The 2nd function in stdlib-analysis obtains the names of all of the packages in the standard library which are not importable (depending on the python version detected). This is done by finding attempting to import each packages (finding whats in its namespace). 'task2()' returns the list of packages from the standard library which cannot be imported for the installed python version
 
